@@ -1,3 +1,4 @@
+// example text results
 {
   "ram": "Your free RAM: 2168270848",
   "totalRam": "Your total RAM: 8434790400",
