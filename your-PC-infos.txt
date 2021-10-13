@@ -1,0 +1,10 @@
+{
+  "ram": "Your free RAM: 2168270848",
+  "totalRam": "Your total RAM: 8434790400",
+  "howManyCpu": "there is \"8\" cpu",
+  "arch": "architect : x64",
+  "platform": "platform : win32",
+  "upTime": "system upTime of seconds : 46260",
+  "version": "version : Windows 10 Enterprise",
+  "osType": "OS Type : Windows_NT"
+}
